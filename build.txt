@@ -1,0 +1,6 @@
+author = hamstar
+version = 0.1.0
+displayName = Custom Entities (Library)
+buildIgnore = *.csproj, *.user, *.bat, obj\*, bin\*, .vs\*, .git\*
+includePDB = false
+languageVersion = 6
